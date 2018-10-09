@@ -1,4 +1,4 @@
 # MRCG
-##Cluster image into superpixel by IMRG
+##Cluster image into superpixel by MRCG
 
-The MRC progress is writed with opencv library.If you need to run it,you have to configure opencv.
+The MRCG progress is writed with opencv library.If you need to run it,you have to configure opencv.
